@@ -24,7 +24,12 @@
   color: black;
 }
 
-.card {
-  padding-top: 80px;
+.card .card-body {
+  padding-left: 80px;
+}
+
+.btn.btn-primary {
+  background-color: gray !important;
+
 }
 
