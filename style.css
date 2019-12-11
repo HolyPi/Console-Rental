@@ -1,8 +1,22 @@
-.jumbotron {
-  background-image: url("https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AABFYFo.img?h=0&w=720&m=6&q=60&u=t&o=f&l=f&x=464&y=368");
+.jumbotron.jumbotron-fluid {
+  background-image: url("https://i.imgur.com/0C9hvcl.png");
   background-size: cover;
 }
 
 .color-me{
   color: white;
 }
+
+.jumbotron h1{
+  color: #fff;
+}
+
+.jumbotron p{
+  color: #fff;
+}
+
+.jumbotron {
+  background-image: url("https://i.imgur.com/8IVI9iW.png");
+  background-size:cover;
+}
+
