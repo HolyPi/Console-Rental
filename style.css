@@ -20,3 +20,11 @@
   background-size:cover;
 }
 
+.carousel-caption.d-none.d-md-block .p {
+  color: black;
+}
+
+.card {
+  padding-top: 80px;
+}
+
