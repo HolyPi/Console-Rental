@@ -33,3 +33,19 @@
 
 }
 
+h1 {
+  padding-left:20px;
+}
+
+.page-header {
+width: cover;
+height: cover;
+
+}
+
+.row {
+
+  padding-left: 80px;
+  padding-top: 20px;
+}
+
